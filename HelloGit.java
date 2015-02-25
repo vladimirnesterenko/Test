@@ -1,5 +1,4 @@
 // This is my test
-// Vlad test 
 
 public class HelloGit {
 
